@@ -1,0 +1,41 @@
+[ {
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "phoneNumber" : "555-1234",
+  "email" : "john.doe@example.com",
+  "mailingAddress" : "123 Main St, Anytown, USA",
+  "dateOfBirth" : "1950-05-20",
+  "age" : 75
+}, {
+  "firstName" : "Bob",
+  "lastName" : "Johnson",
+  "phoneNumber" : "555-3456",
+  "email" : "bob.johnson@example.com",
+  "mailingAddress" : "345 Pine Rd, Othertown, USA",
+  "dateOfBirth" : "1972-12-01",
+  "age" : 52
+}, {
+  "firstName" : "Alice",
+  "lastName" : "Smith",
+  "phoneNumber" : "555-2345",
+  "email" : "alice.smith@example.com",
+  "mailingAddress" : "234 Oak Ave, Sometown, USA",
+  "dateOfBirth" : "1985-08-10",
+  "age" : 40
+}, {
+  "firstName" : "Carol",
+  "lastName" : "Williams",
+  "phoneNumber" : "555-4567",
+  "email" : "carol.williams@example.com",
+  "mailingAddress" : "456 Maple Blvd, Newtown, USA",
+  "dateOfBirth" : "1995-03-15",
+  "age" : 30
+}, {
+  "firstName" : "Eve",
+  "lastName" : "Davis",
+  "phoneNumber" : "555-5678",
+  "email" : "eve.davis@example.com",
+  "mailingAddress" : "567 Birch Ln, Oldtown, USA",
+  "dateOfBirth" : "2000-01-30",
+  "age" : 25
+} ]
